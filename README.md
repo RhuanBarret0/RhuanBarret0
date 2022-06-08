@@ -1,4 +1,4 @@
-## Olá! Sou Rhuan Barreto, Entusiasta de tecnologia e estudante de desenvolvimento de sistemas.
+
 
 <div align="center">
   <a href="https://github.com/RhuanBarret0">
