@@ -1,5 +1,4 @@
-## Olá Sou Rhuan Barreto, Entusiasta de tecnologia e estudante de analise e desenvolvimento de sistemas
-
+## Olá Sou Rhuan Barreto
 <div align="center">
   <a href="https://github.com/RhuanBarret0">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RhuanBarret0&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
